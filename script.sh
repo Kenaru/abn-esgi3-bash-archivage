@@ -1,7 +1,7 @@
 #!/bin/bash
 
 if [ -z "$1" ]; then
-  echo "Usage : $0 <dossier_source>"
+  echo "Usage : $0 <dossier_source>" 
   exit 1
 fi
 
